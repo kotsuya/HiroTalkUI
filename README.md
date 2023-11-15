@@ -2,8 +2,8 @@ HiroTalkUI - iOS
 ====
 
 ----
-- HiroTalk(Swift) -> SwiftUI version
-- Firebase practice project
+ - HiroTalk(Swift) -> SwiftUI version
+ - Firebase practice project
 
 
 ------------
